@@ -15,10 +15,12 @@
  <a href="https://www.hackerrank.com/hazemgamalelgen1" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
-
-- 👋 Hi, I’m Hazem
-- 💼 I'm a computer Science student with interests in web developement, problem solving, embedded systems, and game developement.
-- 👯 I’m looking to collaborate on backend software engineering projects
+  
+- 👋 Hi, I’m Hazem  
+- 💼 Software Engineer passionate about web development, problem-solving, embedded systems, and game development  
+- 🎓 Currently pursuing a Master’s degree in Computer Science at Universität Paderborn  
+- 🔍 Driven by building practical solutions to real-world problems and optimizing existing systems for better performance  
+- 👯 Open to collaborating on backend software engineering projects  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
