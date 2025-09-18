@@ -17,7 +17,7 @@
   </a>
   
 - 👋 Hi, I’m Hazem  
-- 💼 Software Engineer passionate about web development, problem-solving, embedded systems, and game development  
+- 💼 Software Engineer passionate about building solutions and fixing problems!
 - 🎓 Currently pursuing a Master’s degree in Computer Science at Universität Paderborn  
 - 🔍 Driven by building practical solutions to real-world problems and optimizing existing systems for better performance  
 - 👯 Open to collaborating on backend software engineering projects  
